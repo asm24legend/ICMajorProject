@@ -21,4 +21,15 @@ In the scoring part, we use the algorithm of connected components in 2D array (b
 3. Adding sounds to make it more appealing and fun.
 4. Add more number of turns
 # PART TWO: 27 CARD TRICK
+27 card trick is a trick where the user is asked to chose a number from 1 to 27. Later a random deck of 27 cards is displayed infront of the user.He choose one card in his mind which the computer does not have any idea about.Later that random deck is shuffled into 3 piles of cards and the user inputs which pile consist his card. This process is repeated 2 more times. A random answer for doing three times can be the 27 is cube of 3. Later the whole shuffled deck is printed in front of the user and he will find his chosen card in front of the number he chose at first. This is the 27 card magic trick.
+#COLLABORATORS
+Tanisha Saini(B23CM1042),Sudarshi Dhanush Kumar (B23CM1040)
+#How to play the trick
+This is a terminal running trick in which the final output is presented as the ending result of the trick. 
+#References used for the trick
+https://youtu.be/l7lP9y7Bb5g?feature=shared
+#Implementation of the code 
+The code consists of 3 parts which include entering the number,choosing a card from the deck and answering the positions of the card in the 3 piles.Firstly we define a structure which consists of the card information.Later arrays and functions are defined to execute the 27 card trick.
+5. Add more number of turns
+# PART TWO: 27 CARD TRICK
 
